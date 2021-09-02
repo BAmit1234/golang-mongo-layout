@@ -1,4 +1,4 @@
-module main1
+module github.com/AmitKumarGS/golang-mongo-layout
 
 go 1.13
 
